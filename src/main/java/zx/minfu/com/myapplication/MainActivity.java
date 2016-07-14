@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Intent intent=new Intent(MainActivity.this,RecyclerActivity.class);
         startActivity(intent);
-        //maid33
+        //maid3355
     }
 }
